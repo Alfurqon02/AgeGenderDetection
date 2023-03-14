@@ -1,4 +1,4 @@
-# AgeGenderDetection
+# Deteksi Umur dan Gender
 
 Deteksi Umur dan Jenis Kelamin menggunakan OpenCV
 
